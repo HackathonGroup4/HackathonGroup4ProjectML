@@ -13,3 +13,9 @@ This repository hosts the ML aspect of our project, including data preparation, 
 # Flowchart
 
 ![](readme/flowchart.png)
+
+# Main Contributors
+
+- Ernest (NER pipeline creation and deployment on Lambda)
+- Callista (DistilBERT training and deployment on Sagemaker)
+- Siu Hong (Overall deployment on Lambda and Sagemaker)
