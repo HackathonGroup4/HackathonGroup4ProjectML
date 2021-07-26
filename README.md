@@ -17,5 +17,5 @@ This repository hosts the ML aspect of our project, including data preparation, 
 # Main Contributors
 
 - Ernest (NER pipeline creation and deployment on Lambda)
-- Callista (DistilBERT training and deployment on Sagemaker)
+- Callista (Text augmentation, DistilBERT training and deployment on Sagemaker)
 - Siu Hong (Overall deployment on Lambda and Sagemaker)
